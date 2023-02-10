@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+img{
+	width: 100px;
+}
+body{
+	align-items: center;
+}
